@@ -1,4 +1,4 @@
-# [My Academic sample project]
+# My Academic sample project
 
 ---
 
@@ -25,7 +25,7 @@ It specifically highlights my capabilities in:
 
 The sample work is available as a PDF file:
 
-* **[sampleProjects.pdf]**
+* **sampleProjects.pdf**
 
 Simply click on the file in the repository to view it directly in your browser, or download it for offline access.
 
