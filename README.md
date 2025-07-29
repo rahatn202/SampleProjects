@@ -1,4 +1,4 @@
-# [Project Title / Sample Work Name]
+# [My Academic sample project]
 
 ---
 
