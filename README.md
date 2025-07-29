@@ -2,7 +2,7 @@
 
 ---
 
-This repository contains a PDF document showcasing a sample of my work in **[Your Area of Expertise, e.g., Data Analytics, Machine Learning, Data Visualization, AI Development]**. This file serves as a practical demonstration of my skills and approach to **[mention a key aspect, e.g., problem-solving, data-driven insights, technical implementation]**.
+This repository contains a PDF document showcasing a sample of my work in **LangChain-Powered DocuQuery System 2025** and **Light of Information** This file serves as a practical demonstration of my skills and approach to **Natural Language Processing (NLP) / AI Application Development,problem-solving, data-driven insights, technical implementation]**.
 
 ---
 
@@ -13,7 +13,7 @@ This PDF provides a detailed look into **[briefly describe the project/work pres
 It specifically highlights my capabilities in:
 
 
-* **Predictive Modeling / Machine Learning:** Showcasing the application of [mention specific models, e.g., Gradient Boosting, Neural Networks] to [mention problem, e.g., predict outcomes, detect anomalies].
+* **Machine Learning:** Showcasing the application of [mention specific models, e.g., Gradient Boosting, Neural Networks] to [mention problem, e.g., predict outcomes, detect anomalies].
 * **Natural Language Processing (NLP) / AI Application Development:** Featuring [mention specific NLP tasks or AI tools, e.g., text analysis, question-answering systems, LangChain integration].
 * **Strategic Problem-Solving / Business Impact:** Explaining the business context, methodology, and the impact of the findings or solutions.
 
